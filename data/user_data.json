@@ -1,0 +1,32 @@
+[
+    {
+        "name": "aaa",
+        "age": 22,
+        "image_path": "uploads/passport20240329_103905.jpg",
+        "timestamp": "2025-01-14 15:53:06"
+    },
+    {
+        "name": "xcvzcxv",
+        "age": 34,
+        "image_path": "uploads/photo_2024-12-26_15-41-27.jpg",
+        "timestamp": "2025-01-14 15:57:19"
+    },
+    {
+        "name": "a34a3qa3",
+        "age": 33,
+        "image_path": "uploads/hindiUntitled.png",
+        "timestamp": "2025-01-14 16:00:55"
+    },
+    {
+        "name": "cat",
+        "age": 34,
+        "image_path": "uploads/a cat.png",
+        "timestamp": "2025-01-14 16:09:02"
+    },
+    {
+        "name": "city",
+        "age": 34,
+        "image_path": "uploads/two images.png",
+        "timestamp": "2025-01-14 16:09:14"
+    }
+]
