@@ -3,6 +3,9 @@
 #why
 I'm trying to think of ways to isolate the logic of the app from the UI.
 
+#repo
+https://github.com/pleabargain/streamlit_calling_streamlit
+
 A dual-app system built with Streamlit that demonstrates inter-app communication and data persistence. The system consists of two applications (Green App and Red App) that work together to capture, store, and display user information and images.
 
 ## Features

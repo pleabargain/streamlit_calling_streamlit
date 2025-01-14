@@ -14,3 +14,7 @@
 2025-01-14 15:57:30,172 - __main__ - INFO - User clicked to navigate to Red App
 2025-01-14 16:00:55,347 - __main__ - INFO - Saved user data: {'name': 'a34a3qa3', 'age': 33, 'image_path': 'uploads/hindiUntitled.png', 'timestamp': '2025-01-14 16:00:55'}
 2025-01-14 16:01:01,732 - __main__ - INFO - User clicked to navigate to Red App
+2025-01-14 16:09:02,816 - __main__ - INFO - Saved user data: {'name': 'cat', 'age': 34, 'image_path': 'uploads/a cat.png', 'timestamp': '2025-01-14 16:09:02'}
+2025-01-14 16:09:14,524 - __main__ - INFO - Saved user data: {'name': 'city', 'age': 34, 'image_path': 'uploads/two images.png', 'timestamp': '2025-01-14 16:09:14'}
+2025-01-14 16:09:17,508 - __main__ - INFO - Saved user data: {'name': 'city', 'age': 34, 'image_path': 'uploads/two images.png', 'timestamp': '2025-01-14 16:09:17'}
+2025-01-14 16:09:19,946 - __main__ - INFO - User clicked to navigate to Red App
